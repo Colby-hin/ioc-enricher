@@ -1,0 +1,4 @@
+ip,malicious,suspicious,owner,country,reputation,needs_review
+8.8.8.8,0,0,Google LLC,US,563,False
+1.1.1.1,0,0,"Cloudflare, Inc.",Unknown,115,False
+9.9.9.9,0,1,Quad9,Unknown,10,True
